@@ -1,6 +1,6 @@
 module.exports = {
-  username: 'postgres',
-  password: 'postgres',
+  username: 'docker',
+  password: 'docker',
   database: 'sqlnode',
   host: '127.0.0.1',
   dialect: 'postgres',
